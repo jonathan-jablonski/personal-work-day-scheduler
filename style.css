@@ -49,12 +49,12 @@ textarea{
 
 .present {
   background-color: #ff6961;
-  color: rgb(7, 219, 103);
+  color: rgb(253, 253, 253);
 }
 
 .future {
   background-color: #77dd77;
-  color: rgb(77, 206, 73);
+  color: rgb(255, 255, 255);
 }
 
 .saveBtn {
