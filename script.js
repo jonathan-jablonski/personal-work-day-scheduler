@@ -1,5 +1,5 @@
 let today = moment();
-$('#currentDay').text(today.format ('dddd, MMMM, Do, h:mm:ss a'));
+$('#currentDay').text(today.format ('dddd, MMMM, Do'));
 
 $('.saveBtn').on('click', function (){
     let btn = $(this);
